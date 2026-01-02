@@ -1,0 +1,40 @@
+{
+  "dictionary_name": "dict-weekday",
+  "db_path": "~/Library/Application Support/Google/JapaneseInput/user_dictionary.db",
+  "pos": 1,
+  "days": [
+    {
+      "key": "せんしゅう",
+      "offset_days": -7
+    },
+    {
+      "key": "おととい",
+      "offset_days": -2
+    },
+    {
+      "key": "きのう",
+      "offset_days": -1
+    },
+    {
+      "key": "きょう",
+      "offset_days": 0
+    },
+    {
+      "key": "あした",
+      "offset_days": 1
+    },
+    {
+      "key": "あさって",
+      "offset_days": 2
+    },
+    {
+      "key": "らいしゅう",
+      "offset_days": 7
+    }
+  ],
+  "formats": [
+    "mm/dd(w)",
+    "mm月dd日(w)",
+    "yyyy-mm-dd(w)"
+  ]
+}
